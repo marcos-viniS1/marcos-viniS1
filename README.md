@@ -2,12 +2,12 @@
 
 - 🌱 Estudando  HTML e C++
 - 😄 Pronouns: ele / dele
--->
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-viniS1)](https://github.com/SEU-USUARIO)
 
 
-            i class="devicon-cplusplus-plain colored"></i>
+            <i class="devicon-cplusplus-plain colored"></i>
           
             <i class="devicon-html5-plain colored"></i>
           
