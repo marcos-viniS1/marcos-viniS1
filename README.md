@@ -1,7 +1,6 @@
 ## Oi! Eu sou o Marcos Vinícius 👋
 
 - 🌱 Estudando  HTML e C++
-- 😄 Pronouns: ele / dele
 
 <h2 align="left">Techs</h2>
 
